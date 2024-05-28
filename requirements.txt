@@ -1,8 +1,9 @@
-- cv2
-- pytesseract
-- PIL
-- numpy
-- json
-- pdf2image
-- PyPDF2
-- io
+```txt
+cv2
+pytesseract
+PIL
+numpy
+json
+pdf2image
+PyPDF2
+io
